@@ -1,0 +1,9 @@
+{
+  "SF_PROXY_APPLICATION_PORT": "3031",
+  "SF_PROXY_PRIVATE_KEY_PATH": "./test.key",
+  "SF_SUBJECT": "",
+  "SF_ORG_INSTANCE": "https://login.salesforce.com",
+  "SF_ORG_AUTH_TOKEN_ENDPOINT": "https://login.salesforce.com/services/oauth2/token",
+  "SF_CONNECTED_APP_CLIENT_ID": "",
+  "NODE_ENV": "debug"
+}
